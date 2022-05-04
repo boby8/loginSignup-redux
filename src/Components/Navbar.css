@@ -1,0 +1,24 @@
+nav{
+    background-color: rgb(124, 151, 196);
+    padding: 20px 30px;
+  }
+  nav a{
+  padding: 16px;
+  color: rgb(39, 13, 141);
+  text-decoration: none;
+  font-size: 18px;
+
+  }
+  nav a.active{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+   
+  }
+  a:hover{
+      font-size: 15px;
+      background-color: rgb(28, 7, 148);
+      font-family: 'Courier New', Courier, monospace;
+      color: #fff;
+      
+  }

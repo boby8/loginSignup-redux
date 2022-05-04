@@ -1,0 +1,3 @@
+export const LIST_OF_POLL_REQ = "LIST_OF_POLL_REQ";
+export const LIST_OF_POLL_SUCCESS = "LIST_OF_POLL_SUCCESS";
+export const LIST_OF_POLL_ERROR = "LIST_OF_POLL_ERROR ";
